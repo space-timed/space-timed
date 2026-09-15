@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David John
 
-💻 **Lead Software Engineer** with **13+ years of experience** building backend systems across **Payments, Finance, Retail, and Martech**.
+💻 **Lead Software Engineer** with **13+ years of experience** building backend systems across **Payments, Finance, Retail, and Martech** domains.
 
 ### 🛠️ Tech Stack
 
