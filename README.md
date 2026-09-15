@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm David John
 
-<!--
-**space-timed/space-timed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Lead Software Engineer** with **13+ years of experience** building backend systems across **Payments, Finance, Retail, and Martech**.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Java` · `Spring Boot` · `Microservices` · `Kafka` · `PostgreSQL` · `MongoDB` · `Redis` · `AWS` · `Docker` · `Kubernetes`
+
+### ⚙️ I work on
+
+* 🏗️ Distributed backend systems
+* ⚡ Event-driven architectures
+* 📐 System design & scalability
+* 🔐 Secure APIs & authentication
+* 🤖 AI-assisted / agentic software development
+
+### 🧠 Currently exploring
+
+`AI/ML Infrastructure` · `LLM Systems` · `Inference Engineering` 
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20John-0A66C2?style=flat\&logo=linkedin)](https://www.linkedin.com/in/dappdavid)
+
+---
