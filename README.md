@@ -44,8 +44,3 @@ Building reliable backend systems across **Payments, Finance, Retail, and Martec
 
 
 ---
-
-### 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20John-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dappdavid)
-[![X](https://img.shields.io/badge/X-@spacetimed_-000000?style=flat&logo=x&logoColor=white)](https://x.com/spacetimed_)
