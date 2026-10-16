@@ -37,8 +37,6 @@ Building reliable backend systems across **Payments, Finance, Retail, and Martec
 
 <div align="center">
 
-[![GitHub Contributions Calendar](https://ghchart.rshah.org/2F81F7/space-timed)](https://github.com/space-timed?tab=overview)
-
 <img src="https://github-readme-stats.vercel.app/api?username=space-timed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="David's GitHub statistics" height="165" />
 <img src="https://streak-stats.demolab.com?user=space-timed&theme=github-dark-blue&hide_border=true" alt="David's GitHub contribution streak" height="165" />
 
