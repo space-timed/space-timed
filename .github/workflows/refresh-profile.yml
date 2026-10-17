@@ -1,0 +1,29 @@
+name: Refresh Profile Stats & Contributions
+
+on:
+  schedule:
+    # Run every 6 hours to ensure stats & streaks stay fresh
+    - cron: '0 */6 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  refresh-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Purge GitHub Camo Cache
+        env:
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python .github/scripts/purge_camo.py
