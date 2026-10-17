@@ -3,7 +3,7 @@
 
 # Hi, I'm David John 👋
 
-**Lead Software Engineer** · **13+ years** · **Distributed Systems & Backend Engineering**
+**Lead Software Engineer** · **13+ years of experience** · **Distributed Systems & Backend Engineering**
 
 Building reliable backend systems across **Payments, Finance, Retail, and Martech**.
 
