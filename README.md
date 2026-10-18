@@ -7,8 +7,8 @@
 
 Building reliable backend systems across **Payments, Finance, Retail, and Martech**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_John-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dappdavid)
-[![X](https://img.shields.io/badge/X-@spacetimed__-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spacetimed_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dappdavid)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spacetimed_)
 
 </div>
 
